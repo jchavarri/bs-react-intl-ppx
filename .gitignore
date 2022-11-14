@@ -9,7 +9,7 @@ dist/
 bs-react-intl/ppx
 .merlin
 _build
-_esy
+_opam
 _release
 *.byte
 *.native
